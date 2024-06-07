@@ -1,4 +1,4 @@
 # Generate-QR-code
 
 
-## Generate QR code theo chuẩn napas
+## Generate QR code by napas
